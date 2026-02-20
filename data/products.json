@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Serum Hydra-Filler",
+    "price": 2400,
+    "isVegan": true,
+    "arrivalDate": "2024-02-15T10:00:00Z",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Aqua"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Matte Lipstick Red",
+    "price": 850,
+    "isVegan": false,
+    "arrivalDate": "2024-03-01T12:30:00Z",
+    "ingredients": [
+      "Beeswax",
+      "Pigments",
+      "Castor Oil"
+    ]
+  },
+  {
+    "id": 1771582472133,
+    "name": "Moisturizing Cream",
+    "price": 1200,
+    "isVegan": true,
+    "ingredients": [
+      "Aqua",
+      "Aloe"
+    ],
+    "arrivalDate": "2026-02-20T10:14:32.133Z"
+  }
+]
